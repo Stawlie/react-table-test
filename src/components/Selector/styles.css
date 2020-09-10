@@ -1,0 +1,10 @@
+.selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn {
+    margin-left: 20px;
+}
